@@ -1,4 +1,4 @@
-# HELLO
+# HELLO THERE 🍉👨‍💻
 I'm Mikolaj Marasek and I pretend to be a programmer.
 <details><summary>General</summary>
 
