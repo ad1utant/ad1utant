@@ -1,16 +1,36 @@
-### Hi there 👋
+# HELLO
+I'm Mikolaj Marasek and I pretend to be a programmer.
+<details><summary>General</summary>
 
-<!--
-**ad1utant/ad1utant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+    console.log('My name is Mikolaj')
+```
+```
+    $ I code a little
+    $ I like learning new things
+```
+</details>
+<details><summary>Languages</summary>
 
-Here are some ideas to get you started:
+```js
+    console.log(my_favourite_languages)
+```
+```
+    $ My favourite one is python
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+    $ I like also javascript
+    $ I know C++ a little
+```
+</details>
+<details><summary>Contact</summary>
+
+```js
+    console.log(contact)
+
+```
+```
+    Reach me using discord `adiutant`.
+```
+</details>
